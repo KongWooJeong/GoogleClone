@@ -1,0 +1,80 @@
+.inlineBlock {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.headerDiv {
+    text-align: right;
+}
+
+.block {
+    display: block;
+}
+
+.btn {
+
+    background-color: #1a73e8;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 9px 23px;
+    font-size: 13px;
+    min-width: 48px;
+    text-align:center;
+    margin-left: 8px;
+    margin-right: 8px;
+    
+}
+
+.txt {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+    font-size: 13px;
+}
+
+.box {
+    border: 1px solid gray;
+    border-radius: 25px;
+    color: gray;
+    width: 525px;
+    height: 50px;
+    margin-left: 450px;
+    margin-top: 25px;
+}
+
+.find {
+    float: left;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.mic {
+    float: right;
+    margin-right: 20px;
+    width: 80px;
+    height: 40px;
+}
+
+.footerBox {
+    margin-top: 350px;
+    height: 70px;
+    
+}
+
+.box3 {
+    display: flex;
+    background-color: lightgray;
+    height: 70px;
+}
+
+.borderBottom {
+    border-bottom: solid 1px gray;
+}
+
+.country {
+    font-size: 25px;
+    margin-left: 20px;
+    color: gray;
+}
